@@ -1,0 +1,4 @@
+baseURL = "https://nishizawa-apple-jp.netlify.com/"
+languageCode = "ja-jp"
+title = "西沢農園のホームページ"
+theme = "hugo-flex"
